@@ -162,4 +162,5 @@ MYSQL_PASSWORD=your_password
 MYSQL_DB=stock_management
 FLASK_ENV=development
 FLASK_DEBUG=1
+Python version 3.14
 ```
